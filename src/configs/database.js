@@ -1,3 +1,4 @@
+require('dotenv').config();
 module.exports = {
 	multipleStatements	: true,
 	host				: 'sql8.freemysqlhosting.net',
